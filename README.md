@@ -1,13 +1,19 @@
-Weather Application
+Welcome to the Weather App! 
 
-Welcome to the Weather Application repository! This project is a weather forecasting tool that allows users to check the current weather and forecast for various locations.
+This application provides real-time weather information, including current conditions, forecasts, and more. It is designed to give users an easy and intuitive way to check the weather for their location or any other city around the world.
 
 Features
-Current Weather: View the current temperature, weather condition, and other related data.
-Forecast: Get a weather forecast for the next few days.
-Search Functionality: Search for weather information by city or location.
-User Interface: Clean and intuitive UI for ease of use.
+Current Weather: View the current weather conditions, including temperature, humidity, and weather description.
+
+Forecasts: Get hourly and daily weather forecasts.
+
+Search Functionality: Search for weather information by city name.
+
+Location Detection: Automatically detect and display weather for your current location (optional based on permissions).
+
+User Interface: Clean and user-friendly interface for easy navigation.
 
 Technologies Used
-Frontend: HTML, CSS, JavaScript
-Weather API: Free Weather API
+Frontend: html,css,js 
+
+Weather API: FreeweatherAPI
